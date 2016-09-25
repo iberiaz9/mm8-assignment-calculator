@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        revision="24.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\Jose\StudioProjects\mm8-assignment-calculator-skeleton\app\build\intermediates\jill\debug\packaged\commons-lang3-3.3.2-4314d5c387d123a62f2e97084dd070725c126438.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jose\AppData\Local\Android\sdk\platforms\android-24\android.jar"
+        revision="24.0.2"
+        sha1="1311cbfaf9f46b5700b213534bccdc789794b057">
+        <dex dex="C:\Users\Jose\StudioProjects\mm8-assignment-calculator-skeleton\app\build\intermediates\jill\debug\runtime\android-73e6d3f058e25cb376bb5c3d30bec4b913bcdf34.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        revision="24.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Jose\StudioProjects\mm8-assignment-calculator-skeleton\app\build\intermediates\jill\debug\packaged\guava-17.0-8cccce36557a4a7eb967d83d51798d9bca4b1d59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jose\StudioProjects\mm8-assignment-calculator-skeleton\app\libs\mobilecloud.handin-1.0.0.jar"
+        revision="24.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\Jose\StudioProjects\mm8-assignment-calculator-skeleton\app\build\intermediates\jill\debug\packaged\mobilecloud.handin-1.0.0-72bda36dfc51b5d9afa76bffcb35e9af6f6dadf1.jar" />
+    </item>
+
+</items>
